@@ -1,0 +1,8 @@
+Requirements:
+
+Minimum Diploma degree.
+Having 2+ years experience in frontend Development (React Js/ Vue Js/ Angular or React Native).
+Experience building object oriented web applications in JavaScript, HTML5, and CSS3
+Proven experience as a Frontend Developer or Mobile Developer.
+An ability to perform well in a fast-paced environment.
+Excellent communication and teamwork skills
