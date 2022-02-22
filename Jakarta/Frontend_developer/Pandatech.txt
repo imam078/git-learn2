@@ -1,0 +1,7 @@
+Requirements:
+
+2+ years of experience working on a web-based application
+Good understanding of version control (git)
+Know how to use CSS preprocessor Less or SCSS
+Have an experience in using React Lifecycle
+Have a good basic English communication
