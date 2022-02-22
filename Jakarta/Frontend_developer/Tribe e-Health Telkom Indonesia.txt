@@ -1,0 +1,15 @@
+Requirements
+At least 2 years of working experience in related fields
+Strong passion for technology, programming & software development
+Humble culture, zero egos, and excellent collaborative spirit
+Eagerness to learn, eagerness to help, eagerness to share
+Good analytical and logical thinking
+Experience with web accessibility, cross-browser compatibility issues
+Experience frontend performance optimizations
+Basic graphic design skills (i.e. Adobe Photoshop or similar)
+Knowledge of Unix/Linux environments and CLI
+Knowledge and experience with Sass or LESS
+Knowledge and experience with ReactJS or VueJS
+Good Knowledge of RESTFul API
+Good Practice using Gitflow
+Familiarity with test-driven development
