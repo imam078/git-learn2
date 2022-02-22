@@ -1,0 +1,5 @@
+Qualifications
+
+Bachelor's degree or equivalent in Computer Science
+1+ years' experience in frontend development (ReactJs)
+Experience building object oriented web applications in JavaScript, HTML5, and CSS3
