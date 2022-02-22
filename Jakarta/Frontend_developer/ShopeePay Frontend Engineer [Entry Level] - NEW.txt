@@ -1,0 +1,10 @@
+Requirements:
+Bachelor's or higher degree in Computer Science or related fields
+Less than 1 year of experience welcomed
+Passionate about coding and programming, innovation, and solving challenging problems
+Strong knowledge in JavaScript fundamentals
+Well versed in various browser technologies
+Love technologies
+Enjoy teamwork
+Hands-on experiences and knowledge about React JS (preferred)
+Experience in writing type-safe code with Flow or TypeScript (preferred)
