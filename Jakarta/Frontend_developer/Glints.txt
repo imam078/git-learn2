@@ -1,0 +1,12 @@
+Requirements :
+
+Have a good taste in design and UX.
+Have a solid understanding of semantic HTML, CSS pre-processing platforms, such as LESS and SASS, and core JavaScript concepts.
+Have experience in projects working on asynchronous request handling, SPA, API, and JSON
+Professional experience with VueJS, NuxtJS
+Have experience in the development of rich, responsive, and multiplatform Web application
+Have experience in converting visual designs (ex: Figma) into HTML and NuxtJS 
+Minimum 1-year experience for the above requirements.
+Have a solid understanding of core web and browser concepts (eg. how the browser parses and constructs a web page).
+Comfort working in a highly agile, intensely iterative software development process.
+You will be working On-Site / WFO
