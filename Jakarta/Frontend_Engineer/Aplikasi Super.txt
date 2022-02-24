@@ -1,0 +1,7 @@
+Capabilities
+Minimum 4 years experience in Front-end Engineer related roles/projects.
+Fluent proficiency in HTML, CSS, Javascript, (Specifically React.js, Node.js).
+Exposed to development cycles such as Sprints/Scrums is a plus.
+Excellent understanding in app development frameworks such as Ionic/Angular.io is a plus.
+Fluent in software engineering concepts and design patterns.
+Graduated from Computer Science related background.
